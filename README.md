@@ -1,6 +1,6 @@
 # NoBaidu
 ------
-No Baidu in your computer</n>
+## No Baidu in your computer</n>
 ------
 * Run NoBaidu.bat to block Baidu your computer</n> 
 
