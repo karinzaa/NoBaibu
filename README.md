@@ -1,8 +1,8 @@
 ![Imgur](http://i.imgur.com/zz7iqIM.png)
 
--------
-| Tool| 
--------
+------
+|Tool| 
+------
 
 # NoBaidu
 
@@ -12,3 +12,4 @@
 
 >***If your computer is also Baidu to remove it before.***
 
+![Imgur](http://i.imgur.com/z9yRvX2.png?1)
