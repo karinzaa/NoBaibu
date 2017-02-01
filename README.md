@@ -1,3 +1,5 @@
+![Imgur](http://i.imgur.com/zz7iqIM.png)
+
 # NoBaidu
 
 ###No Baidu in your computer</n>
